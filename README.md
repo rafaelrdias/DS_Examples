@@ -1,4 +1,4 @@
-# HapVida
+# HapVida <img src="https://github.com/rafaelrdias/HapVida/blob/main/Arquivos/Imagens/hapvida-logo-3.png" width="160" height="40"/>
 
 ## Neste repositório vcs encontrarão dois Jupyter Notebooks: Predição e Classificação
 
