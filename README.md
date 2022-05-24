@@ -2,10 +2,11 @@
 
 ## Neste repositório vcs encontrarão dois Jupyter Notebooks: Predição e Classificação
 
-### Notebooks:
-Preditor_Preco_Locacao_v1.ipynb
+### *Notebooks*:
+####Predicao_Futura_Doença_Arterial_Coronaria.ipynb
+####Preditor_Preco_Locacao_v1.ipynb
 
-### Datasets:
+### *Datasets*:
 
 #### framingham.csv
 #### listings_summary.csv
