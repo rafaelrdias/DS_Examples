@@ -1,4 +1,4 @@
-# HapVida
+# [HapVida] <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg](https://logodownload.org/wp-content/uploads/2019/12/hapvida-logo.png" width="100" height="40"/>
 
 ## Neste repositório vcs encontrarão dois Jupyter Notebooks: Predição e Classificação
 
