@@ -1,4 +1,0 @@
-# This uses the OCI-CLI's raw-request feature. More documentation is available here: https://docs.oracle.com/en-us/iaas/tools/oci-cli/2.12.11/oci_cli_docs/cmdref/raw-request.html
-# The OCI-CLI is pre-installed in the Cloud Shell environment. More information about Cloud Shell is available here: https://docs.oracle.com/en-us/iaas/Content/API/Concepts/cloudshellintro.htm
-
-oci raw-request --http-method POST --target-uri https://modeldeployment.us-ashburn-1.oci.customer-oci.com/ocid1.datasciencemodeldeployment.oc1.iad.amaaaaaatsbrckqaz47rhokku67kiun6qxjll2cxepq4hl3xb35pbaior4hq/predict --request-body '{"BATHROOMS":{"513":1.0},"BEDROOMS":{"513":1.0},"BEDS":{"513":1.0},"CLEANING_FEE":{"513":20.0}}'
